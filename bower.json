@@ -1,0 +1,48 @@
+{
+  "name": "ember-combo-box",
+  "ignore": [
+    "bower_components",
+    "build",
+    "examples",
+    "node_modules",
+    "recipes",
+    "script",
+    "tests",
+    "tmp",
+    "vendor",
+    "**/.*",
+    "Brocfile.js",
+    "Gruntfile.js",
+    "karma.conf.js",
+    "package.json",
+    "testem.json",
+    "TODO.md",
+    "test"
+  ],
+  "dependencies": {
+    "ember": "1.5.0",
+    "ic-styled": "~1.1.6"
+  },
+  "devDependencies": {
+    "ember-qunit": "~0.1.8",
+    "bootstrap": "~3.1",
+    "jquery-simulate": "https://raw.github.com/jquery/jquery-simulate/master/jquery.simulate.js",
+    "ic-styled": "~1.1.6"
+  },
+  "version": "0.0.1",
+  "authors": [
+    "Jason Monma <jmonma@gmail.com>"
+  ],
+  "description": "A combobox Ember Component",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "Ember",
+    "Component",
+    "Combobox"
+  ],
+  "license": "MIT",
+  "private": true
+}
